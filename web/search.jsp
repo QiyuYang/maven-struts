@@ -9,7 +9,7 @@
 <%@ taglib prefix="s" uri="/struts-tags" %>
 <html>
 <head>
-    <title>PN查  询kjfkdjsafl结果</title>
+    <title>PN查xun结果</title>
 </head>
 <body>
 <form method="get" action="hello.action">
